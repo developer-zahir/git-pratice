@@ -1,4 +1,35 @@
-body{
-    background: red;
-    color: #fff;
+.frist_section{
+    background: rgb(177, 219, 243);
+    padding: 100px 0;
+}
+.section__title{
+    text-align: center;
+    
+}
+.section__title h1{
+   text-transform: uppercase;
+   text-align: center;
+   color: #4444;
+}
+.section__title p{
+    color: #777;
+    text-align: center;
+    padding: 0 50px;
+}
+.item__inner{
+    padding: 20px 10px;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #ddd;
+}
+.item__inner h1{
+    text-transform: capitalize;
+    color: #444;
+
+}
+.item__inner p{
+    color: #666;
+    font-size: 1rem;
+    line-height: 30px;
+    text-align: justify;
 }
